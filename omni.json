@@ -1,0 +1,21 @@
+{
+  "name": "Omni",
+  "background": "#191622",
+  "black": "#000000",
+  "blue": "#78D1E1",
+  "cyan": "#8d79ba",
+  "foreground" : "#F8F8F2",
+  "green": "#50fa7b",
+  "purple": "#988bc7",
+  "red": "#ff5555",
+  "white": "#bfbfbf",
+  "yellow": "#effa78",
+  "brightBlack": "#4d4d4d",
+  "brightBlue": "#78D1E1",
+  "brightCyan": "#aa91e3",
+  "brightGreen": "#5af78e",
+  "brightPurple": "#988bc7",
+  "brightRed": "#ff6e67",
+  "brightWhite": "#e6e6e6",
+  "brightYellow": "#eaf08d"
+}
